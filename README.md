@@ -1,6 +1,6 @@
 # Configurer php-cs-fixer avec PHPStorm sur un nouveau projet
 
-Faire en sortes qu'il formatte lors de la sauvegarde, sur un MAC M1 avec MACOS 12.6 ou inférieur.
+Faire en sortes qu'il formatte lors de la sauvegarde, utilisé sur un MAC M1 avec MACOS 12.6 ou inférieur.
 
 - Installer php-cs-fixer avec composer
 
