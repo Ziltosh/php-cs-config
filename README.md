@@ -15,3 +15,4 @@ Faire en sortes qu'il formatte lors de la sauvegarde, utilisé sur un MAC M1 ave
   - Argument: `fix $FileDirRelativeToProjectRoot$/$FileName$`
   - Working directory: `$ProjectFileDir$`
   - Décocher les 2 cases dans Advanced options
+  - (Optionnel): Désactiver le reformat on save en mettant */**.php dans Editor > Code Style > Formatter > Do not format (ne le faire que sur le projet courant)
